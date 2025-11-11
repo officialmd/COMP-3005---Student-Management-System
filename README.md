@@ -10,7 +10,7 @@ A Python application that connects to a PostgreSQL database to perform CRUD oper
 
 Video Demonstration
 
-[Insert video link here]
+https://youtu.be/UjJaWRuzf8w
 
 SETUP INSTRUCTIONS
 
