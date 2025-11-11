@@ -29,15 +29,20 @@ Database Setup:
 
 Application Setup:
 
-1. Install required library:
+1. Clone the Repository:
+
+git clone https://github.com/officialmd/COMP-3005---Student-Management-System
+cd COMP-3005---Student_Management_System
+
+2. Install required library:
 
 pip install psycopg2-binary
 
-2. Update database password in student_manager.py (line 184):
+3. Update database password in student_manager.py (line 184):
 
 password = "password"
 
-3. Run the application:
+4. Run the application:
 
 python student_manager.py
 
